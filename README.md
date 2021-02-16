@@ -1,6 +1,6 @@
 Hello, github 
-I am @Lhmsp
-I’m interested in illustration, music
+ I am @Lhmsp
+ I’m interested in illustration, music
 
 <!---
 Lhmsp/Lhmsp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
